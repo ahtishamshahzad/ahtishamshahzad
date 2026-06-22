@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://ahtishamshahzad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ahtishamshahzad.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ahtishamshahzad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ahtisham-shahzad-4b69a6120/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:malikahtishamshahzad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -101,14 +101,14 @@ I'm a **Senior Software Engineer** building scalable React Native, Next.js, and 
 
 ## 📌 Featured Projects
 
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| **Blaia** | Marketplace for neighbourhood shops — shop local, online | TypeScript · NestJS · Prisma · Next.js · React · Stripe Connect · Turborepo | [Web](https://blaia.shop/) · [App](https://blaia.app/) |
-| **STEMQuiz** | Competitive STEM quiz platform with server-authoritative monetization &amp; admin CMS | React Native · Expo · Express · PostgreSQL · Drizzle · RevenueCat | [iOS](https://apps.apple.com/us/app/stemquiz/id6759861972) · [Android](https://play.google.com/store/apps/details?id=app.stemquizapp.com) |
-| **My Mind Bestie** | Cross-platform wellness SaaS (Web · Mobile · Desktop) | React Native · Next.js · NestJS · AWS Lambda · Stripe · Electron · Turborepo | — |
-| **Obenan** | AI-powered, multilingual digital-marketing platform | Next.js · React · Redux · Strapi · Turborepo | [Web](https://www.obenan.ai/) |
-| **Pedlar** | Creator-commerce storefronts | React · Next.js · Tailwind CSS · REST | [Web](https://pedlar.store/) |
-| **SenSights** | Telehealth &amp; senior remote-monitoring app | React Native · Redux · REST · Push Notifications | [iOS](https://apps.apple.com/us/app/sensights/id1522446657) · [Android](https://play.google.com/store/apps/details?id=com.sensights) |
+| Project            | What it is                                                                            | Stack                                                                        | Links                                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Blaia**          | Marketplace for neighbourhood shops — shop local, online                              | TypeScript · NestJS · Prisma · Next.js · React · Stripe Connect · Turborepo  | [Web](https://blaia.shop/) · [App](https://blaia.app/)                                                                                    |
+| **STEMQuiz**       | Competitive STEM quiz platform with server-authoritative monetization &amp; admin CMS | React Native · Expo · Express · PostgreSQL · Drizzle · RevenueCat            | [iOS](https://apps.apple.com/us/app/stemquiz/id6759861972) · [Android](https://play.google.com/store/apps/details?id=app.stemquizapp.com) |
+| **My Mind Bestie** | Cross-platform wellness SaaS (Web · Mobile · Desktop)                                 | React Native · Next.js · NestJS · AWS Lambda · Stripe · Electron · Turborepo | —                                                                                                                                         |
+| **Obenan**         | AI-powered, multilingual digital-marketing platform                                   | Next.js · React · Redux · Strapi · Turborepo                                 | [Web](https://www.obenan.ai/)                                                                                                             |
+| **Pedlar**         | Creator-commerce storefronts                                                          | React · Next.js · Tailwind CSS · REST                                        | [Web](https://pedlar.store/)                                                                                                              |
+| **SenSights**      | Telehealth &amp; senior remote-monitoring app                                         | React Native · Redux · REST · Push Notifications                             | [iOS](https://apps.apple.com/us/app/sensights/id1522446657) · [Android](https://play.google.com/store/apps/details?id=com.sensights)      |
 
 > 📂 Full case studies: [`docs/project-case-studies.md`](docs/project-case-studies.md)
 
@@ -116,16 +116,16 @@ I'm a **Senior Software Engineer** building scalable React Native, Next.js, and 
 
 ## 🧰 Services
 
-| Service | What you get |
-| --- | --- |
-| **React Native App Development** | Production iOS + Android from one codebase, micro-interactions, push &amp; deep links, CI/CD to both stores |
-| **Full-Stack Development** | Next.js App Router + RSC, NestJS/Express APIs, PostgreSQL + Prisma, auth, RBAC, multi-tenancy |
-| **Frontend Architecture** | TurboRepo monorepos, design tokens, shared UI libraries, cross-team conventions |
-| **API Integration &amp; Design** | REST + GraphQL design, OAuth &amp; JWT, webhooks, versioning + docs |
-| **SaaS Product Engineering** | Multi-tenant architecture, subscription billing, admin dashboards, usage analytics |
-| **Stripe &amp; Payments** | Stripe subscriptions, Apple Pay / Google Pay, in-app purchases, webhook reconciliation |
-| **Performance Optimization** | Core Web Vitals, bundle analysis, image/font optimization, mobile UI latency profiling |
-| **App Store &amp; Play Deployment** | App Store Connect &amp; Play Console setup, TestFlight, automated CI/CD pipelines |
+| Service                             | What you get                                                                                                |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **React Native App Development**    | Production iOS + Android from one codebase, micro-interactions, push &amp; deep links, CI/CD to both stores |
+| **Full-Stack Development**          | Next.js App Router + RSC, NestJS/Express APIs, PostgreSQL + Prisma, auth, RBAC, multi-tenancy               |
+| **Frontend Architecture**           | TurboRepo monorepos, design tokens, shared UI libraries, cross-team conventions                             |
+| **API Integration &amp; Design**    | REST + GraphQL design, OAuth &amp; JWT, webhooks, versioning + docs                                         |
+| **SaaS Product Engineering**        | Multi-tenant architecture, subscription billing, admin dashboards, usage analytics                          |
+| **Stripe &amp; Payments**           | Stripe subscriptions, Apple Pay / Google Pay, in-app purchases, webhook reconciliation                      |
+| **Performance Optimization**        | Core Web Vitals, bundle analysis, image/font optimization, mobile UI latency profiling                      |
+| **App Store &amp; Play Deployment** | App Store Connect &amp; Play Console setup, TestFlight, automated CI/CD pipelines                           |
 
 ---
 
@@ -145,26 +145,15 @@ I'm a **Senior Software Engineer** building scalable React Native, Next.js, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtishamshahzad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamshahzad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamshahzad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 Contact
 
 - 🌐 **Portfolio:** [ahtishamshahzad.vercel.app](https://ahtishamshahzad.vercel.app)
-- 💼 **LinkedIn:** [ahtishamshahzad](https://www.linkedin.com/in/ahtishamshahzad/)
+- 💼 **LinkedIn:** [ahtishamshahzad](https://www.linkedin.com/in/ahtishamshahzad)
 - 📧 **Email:** [malikahtishamshahzad@gmail.com](mailto:malikahtishamshahzad@gmail.com)
 - 💬 **WhatsApp:** [+92 301 8482488](https://wa.me/923018482488)
-- 🟢 **Upwork:** [ahtishams](https://www.upwork.com/freelancers/ahtishams)
+- 🟢 **Upwork:** [ahtishamshahzad](https://www.upwork.com/freelancers/ahtishamshahzad)
 - 🛠️ **Fiverr:** [ahtishamshahzad](https://www.fiverr.com/ahtishamshahzad)
 
 ---
